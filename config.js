@@ -1,20 +1,21 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Thư gửi bạn iu",
+    introTitle: 'Jialei1610',
+    introDesc: `Thân gửi bạn iu của hiu, lần này hiu viết bức thư này để có đôi lời nhắn nhủ, 
+    hiu thấy bản thân hiu gây cho jl nhiều tổn thương bằng những lời nói nó không được hay, nó bị nặng lời quá
+    và những lỗi lầm của hiu gây ra, những xishc mích không đáng có,
+    hiu làm cái này là để mong jl sẽ tha thứ cho hiu, hiu sai nhiều quá hehe,
+    sau khi đọc xong bức thư này roi thì mqh của 2 đứa sẽ ổn hưn nhé, qua giờ hơi chiến tranh lạnh`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    title: '',
+    desc: ' ',
+    btnYes: '',
+    btnNo: '',
+    question: '',
+    btnReply: '',
+    reply: '',
+    mess: '',
+    messDesc: '',
+    btnAccept: '',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. 
 }
